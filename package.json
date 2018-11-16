@@ -1,0 +1,17 @@
+{
+  "name": "as2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "deploy": "gh-pages -d build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage":"https://dutdavid.github.io/as2",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
